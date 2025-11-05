@@ -1,1 +1,1 @@
-echo 'hey'
+console.log('hey')
